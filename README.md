@@ -31,7 +31,7 @@
 ## Author
 
 - Website - [Pranjal Gupta](https://pranjal36.github.io/Mr.Guptaji/)
-- Twitter - [@Mr_Guptajii](https://twitter.com/Mr_Guptajii)
+- Twitter - [@pranjal_2132](https://twitter.com/pranjal_2132)
 
 
 ## Acknowledgments
